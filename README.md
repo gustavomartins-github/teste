@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 <p align="justify">
-  Este repositorio se destina à matéria de Requisitos de Software da Universidade de Brasília. Tem como objetivo analisar o aplicativo do <a href="https://web.archive.org/web/20220208082252/https://prefeituradeitabuna.com.br/">Exército Brasileiro</a>, aplicando os conceitos aprendidos ao longo da disciplina.
+  Este repositorio se destina à matéria de Requisitos de Software da Universidade de Brasília. Tem como objetivo analisar o aplicativo do <a href="https://play.google.com/store/apps/details?id=com.goodbarber.exercitobr&hl=pt_BR&gl=US">Exército Brasileiro</a>, aplicando os conceitos aprendidos ao longo da disciplina.
 </p>
 
 ## Equipe

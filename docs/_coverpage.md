@@ -1,8 +1,8 @@
-![logo](assets/imagens/BrasaoItabuna.png ':size=10%')
+![logo](assets/imagens/logo-app-ex_br.png':size=10%')
 
-# Prefeitura de Itabuna-BA
+# Exército Brasileiro
 
-[Site](https://web.archive.org/web/20220208082252/https://prefeituradeitabuna.com.br/)
+[Site](https://play.google.com/store/apps/details?id=com.goodbarber.exercitobr&hl=pt_BR&gl=US)
 
 <!-- bg -->
-![](assets/imagens/itabuna.png)
+![](assets/imagens/background-ex_br.jpg)
