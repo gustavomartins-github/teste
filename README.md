@@ -1,18 +1,20 @@
-<p align="center"><img width="240"src="./docs/assets/imagens/BrasaoItabuna.png"></a></p>
+<p align="center"><img width="240"src=""></a></p>
 
-# Prefeitura Municipal de Itabuna
+# Aplicativo do Exército Brasileiro
 
 ## Sobre o projeto
 <p align="justify">
-  Este repositorio se destina à matéria de Interação Humano-Computador da Universidade de Brasília. Tem como objetivo analisar o site da <a href="https://web.archive.org/web/20220208082252/https://prefeituradeitabuna.com.br/">Prefeitura Municipal de Itabuna</a>, aplicando os conceitos aprendidos no decorrer da matéria.
+  Este repositorio se destina à matéria de Requisitos de Software da Universidade de Brasília. Tem como objetivo analisar o aplicativo do <a href="https://web.archive.org/web/20220208082252/https://prefeituradeitabuna.com.br/">Exército Brasileiro</a>, aplicando os conceitos aprendidos ao longo da disciplina.
 </p>
 
 ## Equipe
- Nome | Gihub | Matrícula
- ------ | --------  | ------
-Alan Marques Sousa | [@alan-ms](https://github.com/alan-ms) | 180062026 |
-Arthur Alves de Matos  | [@Arthur-Gaudium](https://github.com/Arthur-Gaudium) | 190010495 |
-Caio Santos | [@caiobsantos](https://github.com/caiobsantos) | 170007413 |
-Ciro Costa de Araujo | [@ciro-c](https://github.com/ciro-c) | 190011611 |
-Vinicius Lima | [@vinelime](https://github.com/vinelime) | 180028839 |
-Vinícius Roriz | [@viniciusroriz](https://github.com/viniciusroriz) | 190020814|
+Nome | GitHub | Matrícula |
+ ---- | ---- | ------ | -------- |
+Gustavo Martins | [@gustavomartins-github](https://github.com/gustavomartins-github) | 200019228 |
+Adne Moretti  | [@AdneMoretti](https://github.com/AdneMoretti) | 200013181 |
+Gabriel Moretti | [@MorettiGS](https://github.com/MorettiGS) | 200018205 |
+Luan Vasco | [@Luan-Cavalcante](https://github.com/Luan-Cavalcante) | 190111836 |
+Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) | 200019015 |
+Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
+
+
